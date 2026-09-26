@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.3-d950c86e.zigbee",
-    "fileVersion": 285421568,
+    "fileName": "tlc_switch-1.1.4-670b5f94.zigbee",
+    "fileVersion": 285487104,
     "fileSize": 182226,
-    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/e0bd236e06fbebd3e075d19afbbf42638018c4cc/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.3-d950c86e.zigbee",
+    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.4-670b5f94.zigbee",
     "imageType": 60013,
     "manufacturerCode": 4417,
-    "sha512": "b485a7453336c956d7be648ee1048b045fb49cc1f849c5d01e6d75d33123c7b26a886a77450505245d45f680640226288eef71d202d7acf83a714c5a8919d964",
+    "sha512": "0d29af91aabcdf5f8e3a9496e6cae116978950206cceac4f044c4c6165c21f8a7a2c615fa814cf5b380d44ef4a1e57194de67203359bc6280b33cb0e69a2bf33",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_e8hvvtpi",
@@ -14,13 +14,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.3-d950c86e-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.4-670b5f94-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 182226,
-    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/e0bd236e06fbebd3e075d19afbbf42638018c4cc/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.3-d950c86e-from_tuya.zigbee",
+    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.4-670b5f94-from_tuya.zigbee",
     "imageType": 65535,
     "manufacturerCode": 4417,
-    "sha512": "813c793cb4e6be7d07dc634f1224f163cd7b26c006e8c9b13a30984be133bfb46428cfc56d2a7d864525fc9653322b7f651b24290a652a01cd1ba75eb2d6b72b",
+    "sha512": "d1a12606328287260ba65d31219beea84536129188d8a4d3e12a26ca713f4819a40bfc726145ee8b43fd8b0ebe752b653bebffe42ccf96592229257ea16ad7e1",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_e8hvvtpi",
