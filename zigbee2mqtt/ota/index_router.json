@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.3-64379a8e.zigbee",
+    "fileName": "tlc_switch-1.1.3-d2b7e133.zigbee",
     "fileVersion": 285421568,
     "fileSize": 182226,
-    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/e2fc2d277327d3d5ea5dff1977a6325a0664e11a/bin/router/MODULE_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.3-64379a8e.zigbee",
+    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.3-d2b7e133.zigbee",
     "imageType": 60013,
     "manufacturerCode": 4417,
-    "sha512": "b545b613a442854f68e2417be203500d5c7d5ef27ed98f3c81931a8fc9698a697d45b5bad9f5a9fd825140d65aee38f93fe345cd8b2c12f40390d13796665f25",
+    "sha512": "203ccc1abfccd5af6f5e9859c8452f1770db1cd19d6ab4b01ce8c06f1c87d737f12fa6414086f4a5c3075bb6396941f17c181bac9b4ea199934b98cce0687485",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_e8hvvtpi",
@@ -14,13 +14,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.3-64379a8e-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.3-d2b7e133-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 182226,
-    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/e2fc2d277327d3d5ea5dff1977a6325a0664e11a/bin/router/MODULE_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.3-64379a8e-from_tuya.zigbee",
+    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.3-d2b7e133-from_tuya.zigbee",
     "imageType": 65535,
     "manufacturerCode": 4417,
-    "sha512": "7cc104e24a780efb391b890d92b529831ec31b49e2d5117c0f7c2a7b00b3cfecef53066add1df8704bd8ff7db331d15020998b1acace47f6041c216663a7488c",
+    "sha512": "f9cddaf68db7e76b657193e0d33875a3bff9ad8733a6ab856aab1e7769a2cb873e7a544bd5a80aa9c2026c44e73aa31f06cee9ae23ebd47db4480a382e858118",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_e8hvvtpi",
