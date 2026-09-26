@@ -1,4 +1,4 @@
-MODULE_TUYA_RM_TS0003_ROUTER:
+SWITCH_TUYA_RM_TS0003_ROUTER:
   human_name: Tuya 3-gang wall_switch (With Neutral)
   category: wall_switch
   power: mains
