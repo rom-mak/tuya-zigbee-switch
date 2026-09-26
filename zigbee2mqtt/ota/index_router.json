@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.4-670b5f94.zigbee",
+    "fileName": "tlc_switch-1.1.4-a61d5e08.zigbee",
     "fileVersion": 285487104,
     "fileSize": 182226,
-    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/1a3f53a3df28c8e9580c3044fdb878021da4df8a/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.4-670b5f94.zigbee",
+    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.4-a61d5e08.zigbee",
     "imageType": 60013,
     "manufacturerCode": 4417,
-    "sha512": "0d29af91aabcdf5f8e3a9496e6cae116978950206cceac4f044c4c6165c21f8a7a2c615fa814cf5b380d44ef4a1e57194de67203359bc6280b33cb0e69a2bf33",
+    "sha512": "f01b6acdfdb4b95cffb529a696a75a61a93e2e807b76760d3d27c5600525332e52f5b92e45d5be4c6dc95abb59efba84f53a1685956ff96da6d7c473756c6851",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_e8hvvtpi",
@@ -14,13 +14,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.4-670b5f94-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.4-a61d5e08-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 182226,
-    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/1a3f53a3df28c8e9580c3044fdb878021da4df8a/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.4-670b5f94-from_tuya.zigbee",
-    "imageType": 65535,
+    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SWITCH_TUYA_RM_TS0003_ROUTER/tlc_switch-1.1.4-a61d5e08-from_tuya.zigbee",
+    "imageType": 54179,
     "manufacturerCode": 4417,
-    "sha512": "d1a12606328287260ba65d31219beea84536129188d8a4d3e12a26ca713f4819a40bfc726145ee8b43fd8b0ebe752b653bebffe42ccf96592229257ea16ad7e1",
+    "sha512": "6f06349d5d43916ad7912ca52ad59514387a117ea21c62b4c6351716d9038cc81ce6c848684f0f7704f5308be04c3b18a1cd47a6d3ca998bd610df17f915fc68",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_e8hvvtpi",
