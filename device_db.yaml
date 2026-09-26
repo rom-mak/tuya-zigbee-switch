@@ -21,7 +21,6 @@ SWITCH_TUYA_RM_TS0003_ROUTER:
   stock_image_type: 65535
   firmware_image_type: 60013
   build: yes
-  firmware_version: 86
   status: fully_supported
   info: Supported
   threads: null
