@@ -19,7 +19,7 @@ MODULE_TUYA_RM_TS0003_ROUTER:
   old_zb_models: null
   stock_manufacturer_id: 4417
   stock_image_type: 65535
-  firmware_image_type: 99901
+  firmware_image_type: 60013
   build: yes
   status: fully_supported
   info: Supported
