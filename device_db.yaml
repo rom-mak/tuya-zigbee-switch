@@ -13,7 +13,7 @@ SWITCH_TUYA_RM_TS0003_ROUTER:
   tuya_module: ZT3L
   mcu_family: Telink
   mcu: TLSR8258
-  config_str: e8hvvtpi;TS0003-E8HVVTPI;LD7;SC3u;RC2;SB5u;RC0;SD2u;RB4;M
+  config_str: e8hvvtpi;TS0003-E8HVVTPI;LD7;SC3u;RC2;SB5u;RC0;SD2u;RB4;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
