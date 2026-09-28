@@ -25,3 +25,30 @@ SWITCH_TUYA_RM_TS0003_ROUTER:
   info: Supported
   threads: null
   store: null
+SWITCH_TUYA_RM_TS0002_ROUTER:
+  human_name: Tuya 2-gang wall_switch (With Neutral)
+  category: wall_switch
+  power: mains
+  neutral: optional
+  output: relay
+  device_type: router
+  stock_model_name: TS0002
+  stock_manufacturer_name: _TZ3000_z8kgm2zi
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0002
+  override_z2m_device: null
+  tuya_module: ZT3L
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: z8kgm2zi;TS0003-Z8KGM2ZI;LD7;SC3u;RC2;SD2u;RB4;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 60014
+  build: yes
+  status: fully_supported
+  info: Supported
+  threads: null
+  store: null
