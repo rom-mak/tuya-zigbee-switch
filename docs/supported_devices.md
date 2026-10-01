@@ -43,5 +43,7 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
 | -- | -- | -- | -- | -- | :--: | :-------------------------------------- | :------------------------------ | ----: | ------: | :----- |
 | 🟩 | ✔️ | ❓ | 🔌 | 🛜 | **TL** | `_TZ3000_e8hvvtpi` <br> `TS0003` | [Tuya 3-gang wall_switch (With Neutral)](https://www.zigbee2mqtt.io/devices/TS0003.html) |   |   | Supported | 
 | 🟩 | ✔️ | ❓ | 🔌 | 🛜 | **TL** | `_TZ3000_z8kgm2zi` <br> `TS0002` | [Tuya 2-gang wall_switch (With Neutral)](https://www.zigbee2mqtt.io/devices/TS0002.html) |   |   | Supported | 
+| 🟩 | ✔️ | ❓ | 🔌 | 🛜 | **TL** | `_TZ3000_e8hvvtpi` <br> `TS0003` | [Tuya 3-gang wall_switch (No Neutral)](https://www.zigbee2mqtt.io/devices/TS0003.html) |   |   | Supported | 
+| 🟩 | ✔️ | ❓ | 🔌 | 🛜 | **TL** | `_TZ3000_z8kgm2zi` <br> `TS0002` | [Tuya 2-gang wall_switch (No Neutral)](https://www.zigbee2mqtt.io/devices/TS0002.html) |   |   | Supported | 
 
 Data from [`device_db.yaml`](/device_db.yaml)
