@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.5-9dae5e06-forced.zigbee",
+    "fileName": "tlc_switch-1.1.6-f8d218a5-forced.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 151634,
-    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/3358f1cedefd199615d98fe7da01bd68800bc02f/bin/end_device/SWITCH_TUYA_RM_TS0002_END_DEVICE_END_DEVICE/tlc_switch-1.1.5-9dae5e06-forced.zigbee",
+    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/SWITCH_TUYA_RM_TS0002_END_DEVICE_END_DEVICE/tlc_switch-1.1.6-f8d218a5-forced.zigbee",
     "imageType": 60016,
     "manufacturerCode": 4417,
-    "sha512": "0556ab51f64253dfb40d0bdf9d4e394ec6c66d443331167dbc07d5a0e8fa9815a914484467cf670686833cc7ed08d0fdff8d7cb87d79f423b0a5a6abde892e39",
+    "sha512": "bbc57e23fcee5076528f1eeaaba1dece0bdc52dfa66e5fd6ac7c8a58fef447a14f57e874a64b740d89a8068276912f43692aef07c690cb5b11d13fb5f4bdab39",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_z8kgm2zi",
@@ -14,13 +14,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.5-9dae5e06-forced.zigbee",
+    "fileName": "tlc_switch-1.1.6-f8d218a5-forced.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 151650,
-    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/3358f1cedefd199615d98fe7da01bd68800bc02f/bin/end_device/SWITCH_TUYA_RM_TS0003_END_DEVICE_END_DEVICE/tlc_switch-1.1.5-9dae5e06-forced.zigbee",
+    "url": "https://github.com/rom-mak/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/SWITCH_TUYA_RM_TS0003_END_DEVICE_END_DEVICE/tlc_switch-1.1.6-f8d218a5-forced.zigbee",
     "imageType": 60015,
     "manufacturerCode": 4417,
-    "sha512": "20897eb507ce8e6574a051b294ec7077e9e0a0612661239ef795b63fa49adfd0b343fe2feca4aa8e91f448bb0288e87ccf62ea052bed10229126377e86c91538",
+    "sha512": "760e1dd31c7ced7702792ec750a74fd6a259dbd5ceb4c307dd5a554f21cb6b94b3f8fafed39d6a6406106262ea1123b85ce536e10ba8ecbf72748ede3acbd265",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_e8hvvtpi",
